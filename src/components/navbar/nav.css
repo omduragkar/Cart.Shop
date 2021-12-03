@@ -1,0 +1,13 @@
+.formc{
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.brandname{
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
+.cart-nav{
+    text-decoration: none !important;
+}
